@@ -87,8 +87,8 @@ nav ul li:hover {
     justify-content: center;
     gap: 5em;
     margin-top: 5em;
-    margin-left: 2em;
-    margin-right: 2em;
+    margin-left: 2.5em;
+    margin-right: 2.5em;
 }
 
 .card {
@@ -101,6 +101,7 @@ nav ul li:hover {
 
 .card p {
     text-align: center;
+    margin: auto;
 }
 
 .card img {
